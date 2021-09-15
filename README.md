@@ -1,4 +1,9 @@
-### Hi there 👋
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishabh5&show_icons=true&hide_border=true&locale=en" alt="hrishabh5" />
+</p>
+
 
 <!--
 **Hrishabh5/hrishabh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
