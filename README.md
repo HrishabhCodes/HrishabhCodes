@@ -1,7 +1,8 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishabh5&show_icons=true&hide_border=true&locale=en" alt="hrishabh5" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Hrishabh5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabh5&show_icons=true&hide_border=true&locale=en" alt="hrishabh5" />
 </p>
 
 
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
