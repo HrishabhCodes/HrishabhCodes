@@ -1,4 +1,11 @@
-
+<h1 align="center">Hi 👋, I'm Hrishabh Jain</h1>
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+<a href="https://twitter.com/hrishabhj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhj5" height="32" width="40" /></a>
+<a href="https://linkedin.com/in/hrishabh-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishabh-jain" height="30" width="40" /></a>
+<a href="https://instagram.com/hrishabh.hj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrishabh.hj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hrishabhcodes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="hrishabhcodes" height="33"  /></a>
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Hrishabh5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
