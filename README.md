@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" style="margin-top: 2px;">, I'm Hrishabh Jain</h2>
+<h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px" style="margin-top: 2px;">, I'm Hrishabh Jain</h2>
 
 <p align="center">
 <a href="https://twitter.com/hrishabhj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhj5" height="32" width="40" /></a>
