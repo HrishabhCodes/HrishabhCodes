@@ -12,6 +12,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabhcodes&show_icons=true&hide_border=true&locale=en" alt="HrishabhCodes" />
 </p>
 
+<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=hrishabhcodes&repo=github-visitors-badge&countColor=00000) -->
+![](https://komarev.com/ghpvc/?username=hrishabhcodes&color=orange&style=for-the-badge)
 
 <!--
 **HrishabhCodes/HrishabhCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
