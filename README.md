@@ -13,7 +13,7 @@
 </p>
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=hrishabhcodes&repo=github-visitors-badge&countColor=00000) -->
-![](https://komarev.com/ghpvc/?username=hrishabhcodes&color=orange&style=for-the-badge)
+<!-- ![](https://komarev.com/ghpvc/?username=hrishabhcodes&color=orange&style=for-the-badge) -->
 
 <!--
 **HrishabhCodes/HrishabhCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
