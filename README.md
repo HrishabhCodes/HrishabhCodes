@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://twitter.com/hrishabhcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhcodes" height="32" width="40" /></a>
 <a href="https://linkedin.com/in/hrishabh-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishabh-jain" height="28" width="40" /></a>
-<a href="https://instagram.com/hrishabh.hj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrishabh.hj" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/hrishabh.hj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrishabh.hj" height="30" width="40" /></a> -->
 <a style="padding-top: 2px;" href="https://www.leetcode.com/hrishabhcodes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="hrishabhcodes" height="35"  /></a>
 <a href="https://medium.com/@hrishabhcodes" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="@hrishabhcodes" height="33" width="33" /></a>
 </p>
