@@ -10,7 +10,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=HrishabhCodes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabhcodes&show_icons=true&hide_border=true&locale=en" alt="HrishabhCodes" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabhcodes&rank_icon=github&hide_border=true" alt="HrishabhCodes" />
 </p>
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=hrishabhcodes&repo=github-visitors-badge&countColor=00000) -->
