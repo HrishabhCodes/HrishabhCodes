@@ -9,9 +9,14 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=HrishabhCodes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrishabhcodes&rank_icon=github&hide_border=true" alt="HrishabhCodes" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HrishabhCodes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrishabhcodes&rank_icon=github&hide_border=true" alt="HrishabhCodes" />
+  
+ 
+  
 </p>
+
+ <!--<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishabhcodes&hide=jupyter%20notebook" alt="HrishabhCodes" />-->
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=hrishabhcodes&repo=github-visitors-badge&countColor=00000) -->
 <!-- ![](https://komarev.com/ghpvc/?username=hrishabhcodes&color=orange&style=for-the-badge) -->
