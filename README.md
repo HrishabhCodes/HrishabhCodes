@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%" style="margin-top: 2px;">, I'm Hrishabh Jain</h2>
 
 <p align="center">
-<a href="https://twitter.com/hrishabhcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhcodes" height="32" width="40" /></a>
+<a href="https://twitter.com/hrishabh_hj" target="blank"><img align="center" src="https://i.pinimg.com/736x/dc/14/bf/dc14bf8657854c461a858844f8d04009.jpg" alt="hrishabhcodes" height="32" width="40" /></a>
 <a href="https://linkedin.com/in/hrishabh-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishabh-jain" height="28" width="40" /></a>
 <a style="padding-top: 2px;" href="https://www.leetcode.com/hrishabhcodes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="hrishabhcodes" height="35"  /></a>
 <a href="https://medium.com/@hrishabhcodes" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-medium-3855923-3201557.png?f=webp&w=128" alt="@hrishabhcodes" height="33" width="33" /></a>
